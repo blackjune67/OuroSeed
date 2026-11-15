@@ -1,0 +1,12 @@
+# 개인 맥락과 도구 설정은 로컬에서만 관리합니다.
+hajune/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# 실습 중 생성되는 민감 정보
+.env
+.env.*
+!.env.example
